@@ -7,8 +7,8 @@
 ### Identificación de matrices
 
 $$ A =
-\begin{bmatrix}
+\begin{matrix}
 1 & 0 \\
 0 & 1 \\
-\end{bmatrix}
+\end{matrix}
 $$
