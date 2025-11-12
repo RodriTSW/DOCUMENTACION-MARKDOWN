@@ -1,6 +1,6 @@
 # Tecnológico de Software
 ## Materia: Fundamentos de álgebra
-## Alumno: Cristopher Euan
+## Alumno: Rodrigo Barrera García
 ## Actividad \#16 - Matrices doc
 
 ---
