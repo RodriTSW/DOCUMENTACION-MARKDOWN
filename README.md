@@ -193,8 +193,6 @@ $$
 ---
 # EJERCICIO 3
 
-# **EJERCICIO 3**
-
 ## **Multiplicación de cadena**
 
 $$
@@ -223,7 +221,7 @@ $$
 
 ---
 
-## **Parte 1**
+## **Parte 1** 
 
 $$
 AB =
@@ -300,6 +298,8 @@ A(BC) =
 10 & 34 \\
 \end{pmatrix}
 $$
+
+### Con esto podemos decir que (AB)C  es igual que (AB)C.
 
 
 
