@@ -1,7 +1,7 @@
 # Tecnológico de Software
-## Materia: Fundamentos de álgebra
+## Materia: Fundamentos de Álgebra
 ## Alumno: Rodrigo Barrera García
-## Actividad \#16 - Matrices doc
+## Actividad \#16 - Matrices 
 
 ---
 # Identificación de matrices
