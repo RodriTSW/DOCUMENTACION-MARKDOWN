@@ -193,86 +193,108 @@ $$
 ---
 # EJERCICIO 3
 
-Muliplicacion de cadena
+# **EJERCICIO 3**
 
-$$ A =
+## **Multiplicación de cadena**
+
+$$
+A =
 \begin{pmatrix}
 1 & 2 \\
 3 & 4 \\
 \end{pmatrix}
 $$
 
-$$ B =
+$$
+B =
 \begin{pmatrix}
 2 & 0 \\
 1 & 3 \\
 \end{pmatrix}
 $$
 
-$$ C =
+$$
+C =
 \begin{pmatrix}
 1 & 1 \\
 0 & 2 \\
 \end{pmatrix}
 $$
 
-## Parte 1 
-$$ AB =
+---
+
+## **Parte 1**
+
+$$
+AB =
 \begin{pmatrix}
-(1 * 2 + 2 * 1) (1 * 0 + 2 * 3) \\
-(3 * 2 + 4 * 1) (3 * 0 + 4 * 3) \\
+(1 * 2 + 2 * 1) & (1 * 0 + 2 * 3) \\
+(3 * 2 + 4 * 1) & (3 * 0 + 4 * 3) \\
 \end{pmatrix}
 $$
 
-$$ AB =
+$$
+AB =
 \begin{pmatrix}
 4 & 6 \\
 10 & 12 \\
 \end{pmatrix}
 $$
 
-## Parte 2 
+---
 
-$$ (AB)C =
+## **Parte 2**
+
+$$
+(AB)C =
 \begin{pmatrix}
-(4 * 1 + 6 * 0) (4 * 1 + 6 * 2)  \\
-(10 * 1 + 12 * 0) (10 * 0 + 12 * 2) \\
+(4 * 1 + 6 * 0) & (4 * 1 + 6 * 2) \\
+(10 * 1 + 12 * 0) & (10 * 1 + 12 * 2) \\
 \end{pmatrix}
 $$
 
-$$ (AB)C =
+$$
+(AB)C =
 \begin{pmatrix}
 4 & 16 \\
 10 & 34 \\
 \end{pmatrix}
 $$
 
-## Parte 1 
+---
 
-$$ BC =
+## **Parte 3**
+
+$$
+BC =
 \begin{pmatrix}
-(2 * 1 + 0 * 0) (2 * 1 + 0 * 2)  \\
-(10 * 1 + 3 * 0) (1 * 1 + 3 * 2) \\
+(2 * 1 + 0 * 0) & (2 * 1 + 0 * 2) \\
+(1 * 1 + 3 * 0) & (1 * 1 + 3 * 2) \\
 \end{pmatrix}
 $$
 
-$$ BC =
+$$
+BC =
 \begin{pmatrix}
 2 & 2 \\
 1 & 7 \\
 \end{pmatrix}
 $$
 
-## Parte 2
+---
 
-$$ A(BC) =
+## **Parte 4**
+
+$$
+A(BC) =
 \begin{pmatrix}
-(1 * 2 + 2 * 1) (1 * 2 + 2 * 7)  \\
-(3 * 2 + 4 * 1) (3 * 2 + 4 * 7) \\
+(1 * 2 + 2 * 1) & (1 * 2 + 2 * 7) \\
+(3 * 2 + 4 * 1) & (3 * 2 + 4 * 7) \\
 \end{pmatrix}
 $$
 
-$$ A(BC) =
+$$
+A(BC) =
 \begin{pmatrix}
 4 & 16 \\
 10 & 34 \\
