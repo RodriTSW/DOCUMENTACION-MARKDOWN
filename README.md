@@ -215,7 +215,7 @@ $$ C =
 0 & 2 \\
 \end{pmatrix}
 $$
--------
+
 ## Parte 1 
 $$ AB =
 \begin{pmatrix}
@@ -246,7 +246,7 @@ $$ (AB)C =
 10 & 34 \\
 \end{pmatrix}
 $$
--------
+
 ## Parte 1 
 
 $$ BC =
