@@ -6,6 +6,7 @@
 ---
 ## Objetivo
 ---
+El objetivo de este proyecto es 
 
 ---
 ## Programación de la hoja de Excel
